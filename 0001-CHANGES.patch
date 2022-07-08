@@ -1,0 +1,22 @@
+From f3be9a975aab4ceefa54005d803a37f3a2a15522 Mon Sep 17 00:00:00 2001
+From: Bilal1729 <dubaizahir33@gmail.com>
+Date: Fri, 8 Jul 2022 14:05:53 +0530
+Subject: [PATCH] CHANGES
+
+---
+ first.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/first.txt b/first.txt
+index ae97406..c453f93 100644
+--- a/first.txt
++++ b/first.txt
+@@ -2,3 +2,5 @@ today is friday and the date is 24-06-2022
+ LINE INSERTED FROM GITBASH
+ THIS IS MOHAMED BILAL Z H
+ THIRD LINE FROM GITHUB
++THIS IS MADAN PARAMESWARN
++NO 1 PORUKKI
+-- 
+2.36.1.windows.1
+
